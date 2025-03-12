@@ -111,4 +111,10 @@ terraform destroy
 - Se recomienda almacenar el `terraform.tfstate` en un backend remoto para evitar pérdidas de estado.
 - Si hay bloqueos en Terraform, usa `terraform force-unlock <ID>`.
 
-🚀 ¡Ahora tienes una VM en Azure completamente automatizada con Terraform!
+🚀 ¡De esta forma se tiene una VM Windows en Azure completamente automatizada con Terraform!
+
+## <b> Autora </b>
+
++ [Gloria Vanesa](https://github.com/Vanesa155 "Vanesa V.")
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
