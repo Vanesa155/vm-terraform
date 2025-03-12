@@ -1,4 +1,4 @@
-# Creación de una Máquina Virtual en Azure con Terraform
+# Creación de una Máquina Virtual Windows  en Azure con Terraform
 
 ## 📌 Descripción
 Este proyecto implementa una **máquina virtual Windows en Azure** utilizando **Infrastructure as Code (IaC) con Terraform**. Se basa en la documentación oficial de Terraform, con dos modificaciones:
